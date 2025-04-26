@@ -74,7 +74,6 @@ The system uses an Ethereum smart contract (`NGODonation.sol`) deployed on the S
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/sathvikinguva/NGO-Work-Monitoring-System
-cd ngo-work-monitoring
 ```
 
 ### 2. Install dependencies
