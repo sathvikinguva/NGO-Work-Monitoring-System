@@ -188,9 +188,8 @@ Feel free to submit a Pull Request.
 - React community
 - TailwindCSS
 
+---
 
 ## Contact
 For questions or support, please contact:
 sathvikinguva@gmail.com
-
----
